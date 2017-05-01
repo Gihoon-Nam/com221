@@ -71,3 +71,10 @@ artifacts/
 *.vsp
 *.vspx
 *.sap
+
+# Visual Studio Project files
+*.vcxproj
+*.vcxproj.filters
+*.sdf
+*.sln
+
